@@ -1,13 +1,13 @@
 {
-  "main.css": "/thealmightystringreverser/static/css/main.78a9badc.chunk.css",
-  "main.js": "/thealmightystringreverser/static/js/main.86c4b67c.chunk.js",
-  "main.js.map": "/thealmightystringreverser/static/js/main.86c4b67c.chunk.js.map",
-  "runtime~main.js": "/thealmightystringreverser/static/js/runtime~main.3e11e50c.js",
-  "runtime~main.js.map": "/thealmightystringreverser/static/js/runtime~main.3e11e50c.js.map",
-  "static/js/2.4e81ba5b.chunk.js": "/thealmightystringreverser/static/js/2.4e81ba5b.chunk.js",
-  "static/js/2.4e81ba5b.chunk.js.map": "/thealmightystringreverser/static/js/2.4e81ba5b.chunk.js.map",
-  "index.html": "/thealmightystringreverser/index.html",
-  "precache-manifest.a4f083c760395446b7f07ea9c577909d.js": "/thealmightystringreverser/precache-manifest.a4f083c760395446b7f07ea9c577909d.js",
-  "service-worker.js": "/thealmightystringreverser/service-worker.js",
-  "static/css/main.78a9badc.chunk.css.map": "/thealmightystringreverser/static/css/main.78a9badc.chunk.css.map"
+  "main.css": "/TheAlmightyStringReverser/static/css/main.78a9badc.chunk.css",
+  "main.js": "/TheAlmightyStringReverser/static/js/main.cbc43aef.chunk.js",
+  "main.js.map": "/TheAlmightyStringReverser/static/js/main.cbc43aef.chunk.js.map",
+  "runtime~main.js": "/TheAlmightyStringReverser/static/js/runtime~main.1f8d5b28.js",
+  "runtime~main.js.map": "/TheAlmightyStringReverser/static/js/runtime~main.1f8d5b28.js.map",
+  "static/js/2.4e81ba5b.chunk.js": "/TheAlmightyStringReverser/static/js/2.4e81ba5b.chunk.js",
+  "static/js/2.4e81ba5b.chunk.js.map": "/TheAlmightyStringReverser/static/js/2.4e81ba5b.chunk.js.map",
+  "index.html": "/TheAlmightyStringReverser/index.html",
+  "precache-manifest.ee82a2b26b0716402044f52364b9387c.js": "/TheAlmightyStringReverser/precache-manifest.ee82a2b26b0716402044f52364b9387c.js",
+  "service-worker.js": "/TheAlmightyStringReverser/service-worker.js",
+  "static/css/main.78a9badc.chunk.css.map": "/TheAlmightyStringReverser/static/css/main.78a9badc.chunk.css.map"
 }
