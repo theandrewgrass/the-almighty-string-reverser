@@ -1,0 +1,53 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #8966F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Arial';
+    overflow: hidden;
+}
+
+.app-section {
+    width: 40vw;
+    height: 80vh;
+    background-color: #5CBAF2;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+}
+
+.description-text {
+    color: #F3FAFE;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    font-size: 4em;
+}
+
+.text-box {
+    text-align: center;
+    width: 25vw;
+    background-color: #F3FAFE;
+    box-shadow: inset 0.5px 0.5px rgba(0,0,0,0.5);
+    padding: 1%;
+}
+
+.results-section {
+    background-color: #F3FAFE;
+    box-shadow: inset 0.5px 0.5px rgba(0,0,0,0.5);
+    padding: 1%;
+    height: 10vh;
+    width: 25vw;
+    margin: auto;
+    margin-top: 5%;
+    padding: 1%;
+    overflow: auto;
+}
+
+.results-text {
+    word-wrap: break-word;
+    white-space: initial;
+}
+
