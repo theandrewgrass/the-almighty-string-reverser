@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TheAlmightyStringReverser/precache-manifest.ee82a2b26b0716402044f52364b9387c.js"
+  "/the-almighty-string-reverser/precache-manifest.e606e6712696940954ea7fa259eecbfb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/TheAlmightyStringReverser/index.html", {
+workbox.routing.registerNavigationRoute("/the-almighty-string-reverser/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
